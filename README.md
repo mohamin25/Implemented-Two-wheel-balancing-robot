@@ -64,5 +64,4 @@ A classic **PID Controller** was selected and implemented to manage the robot's 
 
 ---
 
-![متن جایگزین (Alt Text) برای تصویر]([لینک یا مسیر فایل تصویر](https://github.com/mohamin25/Implemented-Two-wheel-balancing-robot/blob/main/20250115_031611.jpg))
-
+![متن جایگزین (Alt Text) برای تصویر](20250115_031611.jpg)
