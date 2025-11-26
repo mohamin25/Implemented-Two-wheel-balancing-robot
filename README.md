@@ -62,6 +62,5 @@ A classic **PID Controller** was selected and implemented to manage the robot's 
 3.  Configure your microcontroller IDE (e.g., Arduino IDE) with the necessary libraries (e.g., IMU library).
 4.  Upload the code to replicate the balancing functionality.
 
-![متن جایگزین (Alt Text) برای تصویر]("C:\Users\moham\Downloads\Telegram Desktop\20250115_031611.jpg")
 ---
 
