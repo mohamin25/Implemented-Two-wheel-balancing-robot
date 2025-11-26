@@ -64,4 +64,4 @@ A classic **PID Controller** was selected and implemented to manage the robot's 
 
 ---
 
-![متن جایگزین (Alt Text) برای تصویر](20250115_031611.jpg)
+<img src="20250115_031611.jpg" alt="ربات تعادلی در حال حرکت" width="400"/>
